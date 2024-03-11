@@ -1,6 +1,6 @@
 ## 👋 | My name is Chriss
   
-<center>Skills: JS / JAVA / HTML</center>
+Skills: JS / JAVA / HTML
 
 - 🔭 I’m currently working on my private projects. 
 
