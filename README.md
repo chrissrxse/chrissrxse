@@ -1,8 +1,6 @@
 ## 👋 | My name is Chriss
-#####
-<img src="https://github.com/chrissrxse/chrissrxse/storm.gif"/>
   
-Skills: JS / JAVA / HTML
+<center>Skills: JS / JAVA / HTML</center>
 
 - 🔭 I’m currently working on my private projects. 
 
